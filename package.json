@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "webpack": "^5.87.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
